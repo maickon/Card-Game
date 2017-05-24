@@ -10,7 +10,7 @@ A tela branca no centro da carta admite o ajuste de uma nova imagem por dentro d
 
 O exemplo abaixo mostra uma imagem recém ajustada num template gerado pelo programa.
 
-![Tela Principal](img/prints/Dasha.png)
+![Tela Principal](img/prints/Dasha.jpg)
 
 Nas configurações durante a criação do card o usuário pode:
 
