@@ -1,0 +1,72 @@
+[criaturas]
+
+2 lv8-raro - Habilidade:Não *
+2 lv7-comum - Habilidade:Não *
+2 lv2-comum - Habilidade:Não *
+2 lv9-incomum - Habilidade:Não *
+2 lv1-incomum - Habilidade:Não *
+2 lv3-incomum - Habilidade:Sim *
+2 lv10-raro - Habilidade:Sim *
+2 lv5-lendario - Habilidade:Sim *
+2 lv6-comum - Habilidade:Não *
+2 lv4-comum - Habilidade:Não *
+[magias]
+
+2 lv6-incomum - Habilidade:Não
+2 lv3-incomum - Habilidade:Não
+2 lv1-comum - Habilidade:Não
+2 lv5-comum - Habilidade:Não
+2 lv2-lendario - Habilidade:Sim
+2 lv10-incomum - Habilidade:Não
+2 lv4-raro - Habilidade:Sim
+2 lv8-comum - Habilidade:Não
+2 lv7-raro - Habilidade:Não
+2 lv9-comum - Habilidade:Não
+[artefatos]
+
+2 lv9-raro - Habilidade:Sim
+2 lv7-lendario - Habilidade:Não
+2 lv10-incomum - Habilidade:Sim
+2 lv2-comum - Habilidade:Não
+2 lv5-comum - Habilidade:Não
+2 lv6-raro - Habilidade:Não
+2 lv3-comum - Habilidade:Não
+2 lv1-incomum - Habilidade:Não
+2 lv4-comum - Habilidade:Sim
+2 lv8-incomum - Habilidade:Sim
+[terrenos]
+
+2 lv9-comum - Habilidade:Não
+2 lv4-incomum - Habilidade:Sim
+2 lv10-lendario - Habilidade:Sim
+2 lv2-incomum - Habilidade:Não
+2 lv3-incomum - Habilidade:Sim
+2 lv6-comum - Habilidade:Não
+2 lv1-comum - Habilidade:Não
+2 lv7-comum - Habilidade:Sim
+2 lv5-raro - Habilidade:Sim
+2 lv8-raro - Habilidade:Sim
+[talentos]
+
+2 lv10-incomum - Habilidade:Não
+2 lv6-raro - Habilidade:Não
+2 lv5-comum - Habilidade:Não
+2 lv8-raro - Habilidade:Sim
+2 lv1-comum - Habilidade:Não
+2 lv2-comum - Habilidade:Não
+2 lv7-comum - Habilidade:Sim
+2 lv3-incomum - Habilidade:Não
+2 lv4-incomum - Habilidade:Não
+2 lv9-lendario - Habilidade:Sim
+[situacionais]
+
+2 lv6-lendario - Habilidade:Sim
+2 lv2-comum - Habilidade:Não
+2 lv10-incomum - Habilidade:Sim
+2 lv5-comum - Habilidade:Não
+2 lv9-raro - Habilidade:Sim
+2 lv1-incomum - Habilidade:Sim
+2 lv3-raro - Habilidade:Sim
+2 lv4-comum - Habilidade:Não
+2 lv7-incomum - Habilidade:Não
+2 lv8-comum - Habilidade:Não

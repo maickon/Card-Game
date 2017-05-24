@@ -1,0 +1,317 @@
+.card-border{
+	position: relative;
+	width: 450px;
+	height: 650px;
+	float: left;
+	margin: 2px;
+}
+
+.criatura{
+	background-image: url('../img/criatura-template.fw.png');
+}
+
+.magia{
+	background-image: url('../img/magia-template.fw.png');
+}
+
+.situacional{
+	background-image: url('../img/situacional-template.fw.png');
+}
+
+.talento{
+	background-image: url('../img/talento-template.fw.png');
+}
+
+.terreno{
+	background-image: url('../img/terreno-template.fw.png');
+}
+
+.artefato{
+	background-image: url('../img/artefato-template.fw.png');
+}
+
+.semcategoria{
+	background-image: url('../img/semcategoria-template.fw.png');
+}
+.card_nivel{
+	position: relative;
+	left: 30px;
+	top: 15px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 41px;
+	text-align: center;
+	width: 58px;
+	color: #000;
+	float: left;
+}
+
+.card_nome{
+	position: relative;
+	left: 50px;
+	top: 25px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 28px;
+	text-align: center;
+	width: 312px;
+	color: #000;
+	float: left;
+}
+
+.sub_nome{
+	position: relative;
+	left: 50px;
+	top: 22px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 16px;
+	text-align: center;
+	width: 312px;
+	color: #000;
+	float: left;	
+}
+
+.card_imagem{
+	float: left;
+	position: relative;
+	top: 40px;
+	left: 25px;
+	width: 400px;
+	height: 310px;
+}
+
+.card_iniciativa{
+	position: relative;
+	right: 230px;
+	top: 360px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Charlemagne Std';
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	width: 40px;
+	color: #000;
+	float: left;
+}
+
+
+.card_raridade{
+	position: relative;
+	left: 230px;
+	top: 50px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Charlemagne Std';
+	font-size: 20px;
+	text-align: left;
+	width: 145px;
+	color: #000;
+	float: left;
+	font-style: italic;
+}
+
+.com{
+	color: #000000 !important;
+}
+
+.inc{
+	color: #0000FF !important;
+}
+
+.rar{
+	color: #D93600 !important;
+}
+
+.len{
+	color: #8B7500 !important;
+}
+
+.card_dano{
+	position: relative;
+	right: 0px;
+	top: 84px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Charlemagne Std';
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	width: 200px;
+	color: red;
+	float: left;
+}
+
+.card_descricao{
+	position: relative;
+	left: 32px;
+	top: 80px;
+	overflow: hidden;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gadugi Regular';
+	font-size: 14px;
+	text-align: left;
+	width: 390px;
+	height: 80px;
+	color: #000;
+	float: left;
+}
+
+.card_vida{
+	position: relative;
+	right: 13px;
+	bottom: 6px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 30px;
+	text-align: center;
+	width: 50px;
+	color: #FFF;
+	float: left;
+}
+
+.card_ataque{
+	position: relative;
+	right: 380px;
+	top: 142px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 24px;
+	text-align: center;
+	width: 50px;
+	color: #FFF;
+	float: left;
+}
+
+.card_defesa{
+	position: relative;
+	right: 3px;
+	top: 110px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Impact Regular';
+	font-size: 24px;
+	text-align: center;
+	width: 40px;
+	color: #FFF;
+	float: left;
+}
+
+.card_numero{
+	position: relative;
+	left: 385px;
+	top: 130px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gabriola';
+	font-size: 15px;
+	text-align: center;
+	width: 40px;
+	color: #FFFFFF;
+	float: left;
+	margin-bottom: 150px;
+}
+
+.card_artista{
+	position: relative;
+	left: 210px;
+	top: 131px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gabriola';
+	font-size: 14px;
+	text-align: left;
+	font-style: italic;
+	width: 80px;
+	color: #FFFFFF;
+	float: left;
+	margin-bottom: 150px;
+}
+
+.card_magia{
+	color: #fff;
+}
+
+/*Magia*/
+.card_tipo{
+	position: relative;
+	left: 34px;
+	top: 50px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Charlemagne Std';
+	font-size:18px;
+	font-weight: bold;
+	text-align: left;
+	width: 220px;
+	color: #000;
+	float: left;
+}
+
+.card_raridade_tipo2{
+	position: relative;
+	left: 60px;
+	top: 50px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Charlemagne Std';
+	font-size: 20px;
+	text-align: left;
+	width: 150px;
+	color: #000;
+	float: left;
+	font-style: italic;
+}
+
+.card_descricao_tipo2{
+	position: relative;
+	left: 28px;
+	top: 58px;
+	overflow: hidden;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gadugi Regular';
+	font-size: 16px;
+	text-align: left;
+	width: 390px;
+	height: 130px;
+	color: #000;
+	float: left;
+}
+
+.card_numero_tipo2{
+	position: relative;
+	right: 10px;
+	top: 234px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gabriola';
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	width: 40px;
+	color: #FFF;
+	float: left;
+	margin-bottom: 250px;
+}
+
+.card_artista_tipo2{
+	position: relative;
+	right: 120px;
+	top: 624px;
+	background-color: transparent;
+	border: transparent;
+	font-family: 'Gabriola';
+	font-size: 14px;
+	width: 80px;
+	font-style: italic;
+	color: #FFF;
+	margin-bottom: 5px;
+}
